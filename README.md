@@ -2,7 +2,7 @@
 
 Projeto de conclusão do curso **Vem pra Dados Mulheres** (agosto de 2025).
 
-[![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LidiaDias/campanha-marketing-eda/blob/main/analise-conversao-campanhas.ipynb)
+[![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LidiaDias/campanha-marketing-eda/blob/main/analise_conversao_campanhas.ipynb)
 
 ## Contexto e objetivo
 
